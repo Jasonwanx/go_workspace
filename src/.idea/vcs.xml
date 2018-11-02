@@ -2,7 +2,23 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/avelino/awesome-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/firstrow/tcp_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-ini/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/mux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/jtolds/gls" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/kardianos/govendor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/patrickmn/go-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/russross/blackfriday" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/sergi/go-diff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shurcooL/highlight_diff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shurcooL/highlight_go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shurcooL/octicon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/smartystreets/assertions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/smartystreets/goconvey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/sourcegraph/annotate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight" vcs="Git" />
   </component>
 </project>
