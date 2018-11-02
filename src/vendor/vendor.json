@@ -1,5 +1,18 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": []
+	"package": [
+		{
+			"checksumSHA1": "DiRZSwQrav2hS9dDrAez1V5qnHE=",
+			"path": "github.com/go-ini/ini",
+			"revision": "9c8236e659b76e87bf02044d06fde8683008ff3e",
+			"revisionTime": "2018-10-14T23:42:04Z"
+		},
+		{
+			"checksumSHA1": "q83MSNA7jutEAhK7BoQ1Qqxo6Ps=",
+			"path": "github.com/patrickmn/go-cache",
+			"revision": "5633e0862627c011927fa39556acae8b1f1df58a",
+			"revisionTime": "2018-08-15T05:31:27Z"
+		}
+	]
 }

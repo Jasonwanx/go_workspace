@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
+	"github.com/go-ini/ini"
 	"github.com/patrickmn/go-cache"
+	"log"
 	"time"
 )
 
@@ -14,4 +16,12 @@ func main(){
 	if found {
 		fmt.Println(foo)
 	}
+
+	cfg,err := ini.Load("TsiDemoARConfig.ini")
+	if err != nil{
+		log.Fatal(err)
+	}
+
+	OrderFileDir := cfg.Section("SearchDir").Key("OrderFileDir")
+	fmt.Println(OrderFileDir)
 }
