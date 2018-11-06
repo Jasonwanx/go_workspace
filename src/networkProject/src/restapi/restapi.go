@@ -17,7 +17,7 @@ func main()  {
 }
 
 func Index(w http.ResponseWriter, r *http.Request){
-	fmt.Fprintf(w, "Welcome to jason's websit!")
+	fmt.Fprintf(w, "Welcome to jasonwx's websit!")
 }
 
 func TodoIndex(w http.ResponseWriter, r *http.Request){
