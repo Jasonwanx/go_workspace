@@ -9,6 +9,12 @@
 			"revisionTime": "2018-10-14T23:42:04Z"
 		},
 		{
+			"checksumSHA1": "kJXWK9r2PT3f0mvfFhbtCdQx8tE=",
+			"path": "github.com/gorilla/mux",
+			"revision": "3d80bc801bb034e17cae38591335b3b1110f1c47",
+			"revisionTime": "2018-10-30T15:25:28Z"
+		},
+		{
 			"checksumSHA1": "q83MSNA7jutEAhK7BoQ1Qqxo6Ps=",
 			"path": "github.com/patrickmn/go-cache",
 			"revision": "5633e0862627c011927fa39556acae8b1f1df58a",
