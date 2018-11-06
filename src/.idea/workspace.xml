@@ -1,98 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="895d86b7-d8d3-4011-a953-3b1f59a77f54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/networkProject/src/restapi/restapi.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/russross/blackfriday" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/block.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/block_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/doc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/html.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/inline.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/inline_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/latex.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/markdown.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/markdown_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/ref_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/russross/blackfriday/smartypants.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sergi/go-diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/benchutil_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/diff.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/diff_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/diffmatchpatch.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/match.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/match_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/mathutil.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/operation_string.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/patch.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/patch_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/stringutil.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sergi/go-diff/diffmatchpatch/stringutil_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/main_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/github_flavored_markdown/sanitize_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_diff" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/shurcooL/highlight_diff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_diff/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_diff/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_diff/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_diff/main_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/shurcooL/highlight_go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/internal/go/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/internal/go/scanner/errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/internal/go/scanner/scanner.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/internal/go/token/position.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/internal/go/token/serialize.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/internal/go/token/token.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/highlight_go/main_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/shurcooL/octicon" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon/doc.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon/generate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon/octicon.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/octicon/octicon_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/shurcooL/sanitized_anchor_name/main_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sourcegraph/annotate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/annotate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/annotate_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/annotate/benchmark.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/benchmark.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/example_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/highlight.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/highlight_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/keywords.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight/kind_gostring.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/networkProject/src/grammar/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/networkProject/src/grammar/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/vendor.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/vendor.json" afterDir="false" />
-    </list>
+    <list default="true" id="895d86b7-d8d3-4011-a953-3b1f59a77f54" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,14 +12,15 @@
     <session id="240335763">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -145,11 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/networkProject/src/restapi/restapi.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#14#43#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -157,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Go/src/net/http/server.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-157">
+            <state relative-caret-position="47277">
               <caret line="2804" column="19" selection-start-line="2804" selection-start-column="19" selection-end-line="2804" selection-end-column="19" />
             </state>
           </provider>
@@ -219,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +148,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,7 +239,7 @@
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20244215" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20501286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,17 +265,6 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/github.com/firstrow/tcp_server/tcp_server_test.go</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/github.com/avelino/awesome-go/repo.go" />
     <entry file="file://$PROJECT_DIR$/github.com/go-ini/ini/file.go">
@@ -382,9 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
           <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
-          <folding>
-            <element signature="e#20#102#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Go/src/net/http/server.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="2804" column="19" selection-start-line="2804" selection-start-column="19" selection-end-line="2804" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/github.com/gorilla/mux/mux.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -495,11 +381,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/networkProject/src/restapi/restapi.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#14#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Go/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47277">
+          <caret line="2804" column="19" selection-start-line="2804" selection-start-column="19" selection-end-line="2804" selection-end-column="19" />
         </state>
       </provider>
     </entry>
