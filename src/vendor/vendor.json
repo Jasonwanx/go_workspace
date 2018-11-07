@@ -95,8 +95,8 @@
 		{
 			"checksumSHA1": "RcrB7tgYS/GMW4QrwVdMOTNqIU8=",
 			"path": "golang.org/x/net/idna",
-			"revision": "10aee181995363b41f712a55844a0dd52ea04646",
-			"revisionTime": "2018-11-06T03:02:00Z"
+			"revision": "a544f70c90f196e50d198126db0c4cb2b562fec0",
+			"revisionTime": "2018-11-06T11:48:24Z"
 		},
 		{
 			"checksumSHA1": "CbpjEkkOeh0fdM/V8xKDdI0AA88=",
@@ -133,11 +133,6 @@
 			"path": "gopkg.in/yaml.v2",
 			"revision": "5420a8b6744d3b0345ab293f6fcba19c978f1183",
 			"revisionTime": "2018-03-28T19:50:20Z"
-		},
-		{
-			"checksumSHA1": "sVHK2lzb4NCDtIJsvTLVt8Kc598=",
-			"path": "net",
-			"revision": ""
 		},
 		{
 			"checksumSHA1": "Ny6gjKsz5xwCxlHbyDpHTTLGduo=",

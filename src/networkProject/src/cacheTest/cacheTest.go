@@ -4,20 +4,13 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/patrickmn/go-cache"
-<<<<<<< HEAD
+	"os"
 	"time"
 )
 
 func callBack(key string, value interface{}){
 	fmt.Println("callBack:", key)
 }
-=======
-	"log"
-	"os"
-	"time"
-)
-
->>>>>>> 7b17158ca836f509e1dbb158e8c94c3ca3352510
 
 func main(){
 	c := cache.New(5*time.Minute, 10*time.Minute)
@@ -25,11 +18,9 @@ func main(){
 	c.OnEvicted(callBack)
 
 	c.Set("foo", "bar22222222", cache.DefaultExpiration)
-<<<<<<< HEAD
 	c.Set("ip", "200.10.26.200", cache.DefaultExpiration)
 
 	c.SaveFile("data.txt")
-=======
 	c.Set("price", float32(12.3), cache.DefaultExpiration)
 
 	if value, err := c.IncrementFloat32("price", 0.7); err != nil{
@@ -40,7 +31,6 @@ func main(){
 
 	writer := bufio.NewWriter(os.Stdout)
 	c.Save(writer)
->>>>>>> 7b17158ca836f509e1dbb158e8c94c3ca3352510
 
 	foo, found := c.Get("foo")
 	ip, found := c.Get("ip")
