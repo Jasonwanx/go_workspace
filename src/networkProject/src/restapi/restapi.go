@@ -1,31 +1,20 @@
 package main
 
 import (
-	"fmt"
+	"github.com/emicklei/go-restful"
+	"io"
 	"log"
 	"net/http"
-	"github.com/gorilla/mux"
 )
 
-func main()  {
-	router := mux.NewRouter().StrictSlash(true)
-	router.HandleFunc("/", Index)
-	router.HandleFunc("/todos", TodoIndex)
-	router.HandleFunc("/todos/{todoId}", TodoShow)
+func main(){
+	ws := new(restful.WebService)
+	ws.Route(ws.GET("/hello").To(hello))
+	restful.Add(ws)
 
-	log.Fatal(http.ListenAndServe(":8080", router))
+	log.Fatal(http.ListenAndServe(":8080", nil))
 }
 
-func Index(w http.ResponseWriter, r *http.Request){
-	fmt.Fprintf(w, "Welcome to jasonwanx's websit!")
-}
-
-func TodoIndex(w http.ResponseWriter, r *http.Request){
-	fmt.Fprintf(w, "Todo Index!")
-}
-
-func TodoShow(w http.ResponseWriter, r *http.Request){
-	vars := mux.Vars(r)
-	todoId := vars["todoId"]
-	fmt.Fprintf(w, "Todo show:", todoId)
+func hello(req *restful.Request, resp *restful.Response){
+	io.WriteString(resp, "world")
 }

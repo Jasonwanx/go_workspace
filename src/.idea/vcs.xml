@@ -2,12 +2,21 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/PuerkitoBio/purell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/PuerkitoBio/urlesc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/avelino/awesome-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/emicklei/go-restful" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/emicklei/go-restful-openapi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/firstrow/tcp_server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/go-ini/ini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-openapi/jsonpointer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-openapi/jsonreference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-openapi/spec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/go-openapi/swag" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/gorilla/mux" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/jtolds/gls" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/kardianos/govendor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mailru/easyjson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/patrickmn/go-cache" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/russross/blackfriday" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/sergi/go-diff" vcs="Git" />
@@ -20,5 +29,8 @@
     <mapping directory="$PROJECT_DIR$/github.com/smartystreets/goconvey" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/sourcegraph/annotate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/github.com/sourcegraph/syntaxhighlight" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gopkg.in/yaml.v2" vcs="Git" />
   </component>
 </project>
